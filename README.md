@@ -2,10 +2,10 @@
 
 This project aims to train the Baysian Classifier, and through experiments to compare the results of different estimates.  </br>
 There are four experiments implemented in this project, the setup shown as follow:</br>
-* Maximum Likelihood (ML) Estimate with Naive assumption
-* Maximum Likelihood (ML) Estimate without Naive assumption
-* Maximum a posteriori (MAP) Estimate with Naive assumption
-* Maximum a posteriori (MAP) Estimate without Naive assumption</br>
+* **Maximum Likelihood (ML)** Estimate with Naive assumption
+* **Maximum Likelihood (ML)** Estimate without Naive assumption
+* **Maximum a posteriori (MAP)** Estimate with Naive assumption
+* **Maximum a posteriori (MAP)** Estimate without Naive assumption</br>
 
 
 Using the data in “diseased” and “healthy” variables, perform 2-fold cross-validation and compute the error for each classifier.</br>
