@@ -11,6 +11,7 @@ There are four experiments implemented in this project, the setup shown as follo
 Using the data in “diseased” and “healthy” variables, perform 2-fold cross-validation and compute the error for each classifier.</br>
 
 ![](https://github.com/ansonyeoh/ML-Bayesian-Classifier/blob/master/raw/error%20rate.png?raw=true) </br>
+The average error for the ML with Naïve is 32 and 36.8, the ML without Naïve is 18.8 and 20.5. The error of ML without Naïve is lower than the classifier with Naïve assumption. Therefore, ML estimate without Naïve assumption is better than the one with Naïve assumption.</br>
 
 ![](https://github.com/ansonyeoh/ML-Bayesian-Classifier/blob/master/raw/er2.png?raw=true) </br>
 
